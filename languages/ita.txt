@@ -1,6 +1,7 @@
 a and o merge into o
 i and o merge into o
 i and u merge into u
+a and u merge into u
 
 hundreds is cento singular cento
 
