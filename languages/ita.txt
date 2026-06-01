@@ -1,0 +1,40 @@
+a and o merge into o
+i and o merge into o
+i and u merge into u
+
+hundreds is cento singular cento
+
+milestone 4 is mila singular mille
+milestone 7 is milioni singular un*milione
+milestone 10 is miliardi singular un*miliardo
+milestone 13 is trilioni singular un*trilione
+milestone 16 is triliardi singular un*triliardo
+
+0 is zero
+1 is uno
+2 is due
+3 is tre
+4 is quattro
+5 is cinque
+6 is sei
+7 is sette
+8 is otto
+9 is nove
+10 is dieci
+11 is undici
+12 is dodici
+13 is tredici
+14 is quattordici
+15 is quindici
+16 is sedici
+17 is diciassette
+18 is diciotto
+19 is diciannove
+20 is venti
+30 is trenta
+40 is quaranta
+50 is cinquanta
+60 is sessanta
+70 is settanta
+80 is ottanta
+90 is novanta

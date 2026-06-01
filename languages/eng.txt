@@ -1,0 +1,38 @@
+. and . merge into -
+
+hundreds is *hundred* singular one*hundred*
+
+milestone 4 is thousand singular thousand
+milestone 7 is million singular million
+milestone 10 is billion singular billion
+milestone 13 is trillion singular trillion
+milestone 16 is quadrillion singular trillion
+
+0 is zero
+1 is one
+2 is two
+3 is three
+4 is four
+5 is five
+6 is six
+7 is seven
+8 is eight
+9 is nine
+10 is ten
+11 is eleven
+12 is twelve
+13 is thirteen
+14 is fourteen
+15 is fifteen
+16 is sixteen
+17 is seventeen
+18 is eighteen
+19 is nineteen
+20 is twenty
+30 is thirty
+40 is forty
+50 is fifty
+60 is sixty
+70 is seventy
+80 is eighty
+90 is ninety

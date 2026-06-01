@@ -1,0 +1,40 @@
+. and . merge into *y*
+
+hundreds is cientos* singular ciento
+
+milestone 4 is mil singular mil
+milestone 7 is millones singular un*millón
+milestone 10 is mil singular mil
+milestone 13 is billones singular un*billón
+milestone 16 is mil singular mil
+milestone 19 is trillones singular un*trillón
+
+0 is cero
+1 is uno
+2 is dos
+3 is tres
+4 is cuatro
+5 is cinco
+6 is seis
+7 is siete
+8 is ocho
+9 is nueve
+10 is diez
+11 is once
+12 is doce
+13 is trece
+14 is catorce
+15 is quince
+16 is dieciséis
+17 is diecisiete
+18 is dieciocho
+19 is diecinueve
+20 is veinte
+30 is treinta
+40 is cuarenta
+50 is cincuenta
+60 is sesenta
+70 is setenta
+80 is ochenta
+90 is noventa
+100 is cien
