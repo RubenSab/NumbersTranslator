@@ -1,0 +1,38 @@
+. and . merge into *și*
+
+hundreds is sute* singular sută*
+
+milestone 4 is mii singular mie
+milestone 7 is milioane singular un*milion
+milestone 10 is miliarde singular un*miliard
+milestone 13 is trilioane singular un*trilion
+milestone 16 is triliarde singular un*triliard
+
+0 is zero
+1 is unu*
+2 is doi*
+3 is trei*
+4 is patru*
+5 is cinci*
+6 is șase*
+7 is șapte*
+8 is opt*
+9 is nouă*
+10 is zece*
+11 is unsprezece*
+12 is doisprezece*
+13 is treisprezece*
+14 is paisprezece*
+15 is cincisprezece*
+16 is șaisprezece*
+17 is șaptesprezece*
+18 is optsprezece*
+19 is nouăsprezece*
+20 is douăzeci*
+30 is treizeci*
+40 is patruzeci*
+50 is cincizeci*
+60 is șaizeci*
+70 is șaptezeci*
+80 is optzeci*
+90 is nouăzeci*

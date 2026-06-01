@@ -50,8 +50,8 @@ def digits_to_words(number: int, rules: LanguageRules):
                     name_of_triple += f" {rules.milestones[str(pos)][0]} "
             translation = name_of_triple + translation
         pos += 3
-    translation.replace("  ", " ")
-    return translation
+
+    return translation.replace("  ", " ")
 
 
 def triple_to_words(triple: str, rules: LanguageRules):
